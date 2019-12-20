@@ -15,6 +15,7 @@ If you have any questions about the corpus, please feel free to contact us via t
 
 # Citation
 Qiu, Likun, et al. "Multi-view Chinese treebanking." Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers. 2014.
+https://www.aclweb.org/anthology/C14-1026/
 
 # License
 GPL 3.0
