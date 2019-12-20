@@ -1,9 +1,9 @@
-# PKUMultiviewTreebank
-Multi-view Chinese Treebank, released by PKU-ICL
+# PKU Multiview Treebank(PMT) 1.0
+PKU Multi-view Chinese Treebank, released by PKU-ICL
 
-This repository contains the first version of PKUMultiviewTreebank, and it contains the sentences from People's Daily(19980101-19980110). The number of sentences in it is 14463.
+This repository contains the first version of PMT, and it contains the sentences from People's Daily(19980101-19980110). The number of sentences in it is 14463.
 
-Since the PKU Corpus has been annotated with two different POS tag sets, and our treebank has used another pos tag set, we providing three versions of treebank. 2000 and 2003 denote the two pos tag sets of the original PKU corpus respectivley, and 2014 denote the pos tag set of our treebank, which is first released in 2014.
+Since the PKU Corpus has been annotated with two different POS tag sets, and PMT has used another pos tag set, we providing three versions of treebank. 2000 and 2003 denote the two pos tag sets of the original PKU corpus respectivley, and 2014 denote the pos tag set of PMT, which is first released in 2014.
 
 For detailed explanation of the 2000 and 2003 tag set, please refer to the paper of "北京大学现代汉语语料库基本加工规范(The Basic Processing of Contemporary Chinese Corpus at Peking University)". 
 
